@@ -12,3 +12,4 @@ The description and requirements of HW1 - HTML from the course CS 198-99 Introdu
 My solution of HW1 - HTML has been deployed using GitHub Pages and can be found [here](https://georgiosioannoucoder.github.io/hw1-html/).
 
 ## Demo
+https://github.com/GeorgiosIoannouCoder/hw1-html/assets/110848236/e06fec0a-9b1d-42e8-ae90-de4fe544bb50
